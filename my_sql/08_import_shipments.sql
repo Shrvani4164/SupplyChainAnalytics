@@ -1,0 +1,1 @@
+SELECT * FROM shipments_clean LIMIT 10;
